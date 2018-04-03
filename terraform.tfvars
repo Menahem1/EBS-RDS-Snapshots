@@ -1,0 +1,13 @@
+ebs_snapshot_time = "0330"
+ebs_custom_tag_name = "scheduler:ebs-snapshot"
+ebs_retention_days = "30"
+ebs_snapshot_deletion = "yes"
+ebs_time_zone = "Europe/Paris"
+ebs_days_active = "all"
+
+rds_snapshot_time = "0330"
+rds_custom_tag_name = "scheduler:rds-snapshot"
+rds_retention_days = "30"
+rds_snapshot_deletion = "yes"
+rds_time_zone = "Europe/Paris"
+rds_days_active = "all"
